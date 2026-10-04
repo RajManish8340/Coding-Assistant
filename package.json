@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^4.0.87",
+    "@ai-sdk/groq": "^4.0.54",
+    "@openrouter/ai-sdk-provider": "^3.1.0",
     "ai": "^7.0.126"
   }
 }
