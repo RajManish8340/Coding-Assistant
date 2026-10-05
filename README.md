@@ -1,4 +1,4 @@
-# ai-sdk-test
+# Coding-Assistant
 
 To install dependencies:
 
